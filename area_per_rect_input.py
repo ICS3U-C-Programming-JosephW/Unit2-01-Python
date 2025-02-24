@@ -14,5 +14,9 @@ def find_area_perimeter():
     print(f"The perimeter is: {2 * (length + width)}cm")
 
 
-if __name__ == "__main__":
+def main():
     find_area_perimeter()
+
+
+if __name__ == "__main__":
+    main()
